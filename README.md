@@ -1,7 +1,7 @@
 HTXT Converter for Windows
 =========================
 
-Files created:
+Files:
  - htxt_converter.py   -> The converter script (requires Python 3)
  - example.htxt        -> Example HTXT source
  - run_htxt.bat        -> Windows batch file to run the converter
